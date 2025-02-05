@@ -1,1 +1,2 @@
-# bootstrap-project
+Barber Studio is not just a website; it's a digital gateway to the art of grooming. Crafted with HTML, CSS, and Bootstrap, this sleek and modern design ensures a seamless experience for users who appreciate style and precision. Dive into a world where every cut, every trim, and every shave tells a story. Explore our services, meet our expert barbers, and book your transformation today. Have questions? Reach out at erhan.mor@egeacademy.ca and let’s shape your style, one cut at a time.
+
